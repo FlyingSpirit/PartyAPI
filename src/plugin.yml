@@ -1,0 +1,11 @@
+name: PartyAPI
+version: 1.0
+main: de.flyingspirit.party.PartyAPI
+
+author: FlyingSpirit
+description: A useful API for Partys' on a BungeeCord Proxy.
+
+commands:
+  PartyInfo:
+    description: Gives the current version back.
+    usage: /<command>
