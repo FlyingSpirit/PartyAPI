@@ -1,2 +1,2 @@
 # PartyAPI
-A usefol API for creating Party plugins on a BungeeCord Proxy.
+A useful API for creating Party plugins on a BungeeCord Proxy.
